@@ -12,9 +12,18 @@ p {
 
 footer {
   text-align: center;
+  display: block;
+}
+
+.contact-me {
+  text-align: center;
+  display: block;
+  font-size: 20px;
 }
 
 .croissant-img {
-  display: inline;
-  border-radius: 3px;
+  margin: 30px auto;
+  max-width: 50%;
+  border-radius: 90px;
+  display: block;
 }
